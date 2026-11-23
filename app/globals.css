@@ -1,0 +1,10 @@
+/* 全局重置：页面自身样式全部在 /hd/app.css 中 */
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #f2ede6;
+}
